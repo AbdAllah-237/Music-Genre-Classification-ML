@@ -52,5 +52,5 @@ _Add screenshots here if needed – confusion matrix, waveform, MFCC plot, etc._
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YourUsername/music-genre-classification.git
+   git clone https://github.com/AbdAllah-237/music-genre-classification-ML.git
    cd music-genre-classification
