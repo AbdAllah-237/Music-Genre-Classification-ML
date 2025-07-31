@@ -46,7 +46,7 @@ The notebook supports uploading any `.wav` file from your device.
 It extracts MFCC features and predicts the genre using the trained model.
 
 ## 🖼️ Screenshots
-_Add screenshots here if needed – confusion matrix, waveform, MFCC plot, etc._
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/123772b5-9545-4b25-a491-a7f58d1a7f6d" />
 
 ## 🚀 How to Run
 
